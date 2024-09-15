@@ -51,3 +51,8 @@ git clone <repository-url>
    ```
    npm start
    ```
+## Contributors
+
+- **Prakhar Srivastava** - [ThePrakhar-7717](https://github.com/ThePrakhar-7717)
+
+- Thank you for your support and contributions!
